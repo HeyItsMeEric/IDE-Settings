@@ -40,11 +40,11 @@ Go through these steps
 
 
 
-![img_2.png](ReadMe%20Photos/Date_format_expression.png)
+![img_2.png](ReadMe%20Photos/Date%20format%20expression.png)
 Go back to the macro window and now a box should appear where you should put the format. Note that anything put in quotation marks will NOT be evaluated (like the "at")
 
 
 
 
-![img_3.png](ReadMe%20Photos/Template_output.png)
+![img_3.png](ReadMe%20Photos/Template%20output.png)
 Output
