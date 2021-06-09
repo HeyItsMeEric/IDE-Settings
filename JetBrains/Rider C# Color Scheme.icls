@@ -1,9 +1,9 @@
 <scheme name="Darcula" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2021-06-05T20:07:04</property>
+    <property name="created">2021-06-09T10:11:26</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.1.3.0.0</property>
-    <property name="modified">2021-06-05T20:07:25</property>
+    <property name="modified">2021-06-09T10:12:09</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <attributes>
@@ -96,9 +96,38 @@
         <option name="FOREGROUND" value="a2d088" />
       </value>
     </option>
+    <option name="INFO_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="52503a" />
+        <option name="ERROR_STRIPE_COLOR" value="be9117" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="LIVE_TEMPLATE_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="ReSharper.CPP_DIRECTIVE">
+      <value>
+        <option name="FOREGROUND" value="ff9933" />
+      </value>
+    </option>
     <option name="ReSharper.CPP_KEYWORD">
       <value>
         <option name="FOREGROUND" value="e9be2" />
+      </value>
+    </option>
+    <option name="ReSharper.CPP_OVERLOADED_OPERATOR_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="9accff" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
+    <option name="ReSharper.CPP_PREPROCESSOR_MACRO_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="ReSharper.CPP_STRUCT_IDENTIFIER">
@@ -126,18 +155,56 @@
         <option name="FOREGROUND" value="4dae84" />
       </value>
     </option>
+    <option name="ReSharper.CSHARP_PREPROCESSOR_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_STATIC_METHOD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="ReSharper.CSHARP_STRING">
       <value>
         <option name="FOREGROUND" value="a2d088" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
-    <option name="ReSharper.OPERATOR_IDENTIFIER">
+    <option name="ReSharper.CSHARP_STRUCT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_COLOR" value="4dae84" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.HEAP_VIEW_ALLOCATION">
+      <value>
+        <option name="BACKGROUND" value="373737" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="ffffff" />
         <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
+    <option name="ReSharper.HINT">
+      <value>
+        <option name="BACKGROUND" value="52503a" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="ReSharper.OPERATOR_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="29f597" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
+    <option name="SUGGESTION">
+      <value>
+        <option name="BACKGROUND" value="52503a" />
+        <option name="ERROR_STRIPE_COLOR" value="1a6dce" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="TEXT">
