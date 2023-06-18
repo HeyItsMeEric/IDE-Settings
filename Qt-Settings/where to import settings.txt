@@ -1,3 +1,11 @@
 Keyboard shortcuts: Edit >> Preferences >> Environment >> Keyboard tab
 Theme: 		    Edit >> Preferences >> Text Editor >> Font & Colors
 C++ settings	    Edit >> Preferences >> C++
+Auto formatting	    1.) Help >> About Plugins >> C++ > Beautifier >> check "Load" column box
+		    2.) Restart IDE
+		    3.) Downlaod Artistic Style from https://sourceforge.net/projects/astyle/files/astyle/
+		    4.) Edit >> Preferences >> Beautifier >> Artistic Style >> Artistic style command
+			enter the path to the astyle.exe file from the downloaded zip from sourceforge
+		    5.) On same preferences page, check "Use customized style" in the "Options" area
+		    4.) Type: --style=google   into the "value" textarea
+		    X.) more info here: https://doc.qt.io/qtcreator/creator-beautifier.html
