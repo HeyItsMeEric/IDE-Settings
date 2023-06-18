@@ -1,0 +1,3 @@
+Keyboard shortcuts: Edit >> Preferences >> Environment >> Keyboard tab
+Theme: 		    Edit >> Preferences >> Text Editor >> Font & Colors
+C++ settings	    Edit >> Preferences >> C++
